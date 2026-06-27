@@ -58,5 +58,5 @@ API yang digunakan tidak menyediakan data `price range` dan status `open/closed`
 
 ## Live Demo
 
-- Netlify: `https://NAMA-PROJECT-ANDA.netlify.app`
-- GitHub Repo: `https://github.com/USERNAME-ANDA/FrontendDevReactjs-NamaAnda`
+- Netlify: `https://restaurantsimple.netlify.app/`
+- GitHub Repo: `https://github.com/Raynan2507/FrontendDevReactjs-RaynanAziz`
